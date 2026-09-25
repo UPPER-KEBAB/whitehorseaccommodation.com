@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://whitehorseaccommodation.com/sitemap.xml
+Sitemap: https://UPPER-KEBAB.github.io/whitehorseaccommodation.com/sitemap.xml
